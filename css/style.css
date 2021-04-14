@@ -373,25 +373,26 @@ footer{
 /*ciremai*/
 #ciremai{
     width:100%;
-    /*background: url(./images/beach-home.jpg) no-repeat center;
-    background-size: cover;*/
+    background: url(./images/ciremai2.jpg) no-repeat center;
+    background-size: cover;
     height: 675px;
     position: relative;
 }
 
-.fullscreen-video-wrap{
-    position: absolute;
-    top: 0;
-    left: 0;
-    width: 100%;
+#gede{
+    width:100%;
+    background: url(./images/gede.jpg) no-repeat center;
+    background-size: cover;
     height: 675px;
-    overflow: hidden;
+    position: relative;
 }
 
-.fullscreen-video-wrap video{
-    min-width: 100%;
-    min-height: 100%;
-    object-fit: cover;
+#gayatri{
+    width:100%;
+    background: url(./images/beach-home.jpg) no-repeat center;
+    background-size: cover;
+    height: 675px;
+    position: relative;
 }
 
 .judul-ciremai h1{
